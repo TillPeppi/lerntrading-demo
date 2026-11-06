@@ -1,0 +1,1 @@
+const e={angebot:"pricing",kontakt:"contact",kalender:"economic-calendar",handelszeiten:"trading-hours",rechner:"position-size-calculator",glossar:"glossary",impressum:"imprint",datenschutz:"privacy-policy",agb:"terms",widerruf:"withdrawal",risikohinweis:"risk-disclosure"};Object.fromEntries(Object.entries(e).map(([i,r])=>[r,i]));
